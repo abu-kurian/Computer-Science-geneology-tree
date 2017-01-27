@@ -1,0 +1,76 @@
+{"Stephen berman":{"Advisors":"Irving ezra segal","Advisees":"","First_name":"Stephen","Middle_Name":"Jay","Last_Name":"Berman","Country":"USA","Institute":"Massachusetts Institute of Technology","Thesis":"Wave equation with finite velocity of propogation","Year":1974},
+
+"Joseph cook":{"Advisors":["Irving ezra segal"],"Advisees":"","First_name":"Joseph","Middle_Name":"Marion","Last_Name":"cook","Country":"USA","Institute":"The University of Chicago","Thesis":"The mathematics of second quantization","Year":1951},
+
+"Henry Dye Jr.":{"Advisors":["Irving ezra segal"],"Advisees":["William Arveson","Frank Cater","André De Korvin","Steven Douglass","C. Robert Miers","Fredric Pollack","Bernard Russo"],"First_name":"Henry","Middle_Name":"Abel","Last_Name":"Dye","Country":"USA","Institute":"The University of Chicago","Thesis":"Radon-Nikodym Theorems for Operator Algebras","Year":1950},
+
+
+"Ernest Griffin":{"Advisors":["Irving ezra segal"],"Advisees":"John Aiken, IV","First_name":"Ernest","Middle_Name":"Lyle","Last_Name":"griffin","Country":"USA","Institute":"The University of Chicago","Thesis":"On Semi-Finite Rings of Operators Mathematics Subject Classification","Year":1952},
+
+
+"Stephen Mark Paneitz":{"Advisors":["Irving ezra segal"],"Advisees":"","First_name":"Stephen","Middle_Name":"Mark","Last_Name":"Paneitz","Country":"USA","Institute":"Massachusetts Institute of Technology","Thesis":"Causal Structures in Lie Groups and Applications to Stability of Differential Equations","Year":1980},
+
+"Robert Kallman":{"Advisors":["Irving ezra segal"],"Advisees":["Alexandru Atim","Michael Cohen","Matthew Farmer","Diana Hayes","Michael Henle" ,"We'am Jasim","Alexander McLinden","Samuel McWhorter","Robert Opalecky","Elaine Pettit","Michael Rees","William Wright"],"First_name":"Robert","Middle_Name":"Richard","Last_Name":"Kallman","Country":"USA","Institute":"Massachusetts Institute of Technology","Thesis":"Unitary Groups and Automorphisms of Operator Algebras","Year":1968},
+
+
+"Hans Jakobsen":{"Advisors":["Irving ezra segal"],"Advisees":"","First_name":"Hans","Middle_Name":"Plesner","Last_Name":"Jakobsen","Country":"USA","Institute":"Massachusetts Institute of Technology","Thesis":"Conformal Harmonic Analysis and Intertwining Differential Operators","Year":1976},
+
+"J. Edward (Joseph) Nelson":{"Advisors":["Irving ezra segal"],"Advisees":["Eric Carle","Thaddeus Dankel","Richard Dudley","William Faris" ,"Charles Friedman","Richard Hevener","Julian Hook","John Laffert","Gregory Lawler","Robert Moore","William Priestley","Timothy Wallstrom","Robert Wolpert"],"First_name":"J.Edward","Middle_Name":"Joseph","Last_Name":"Nelson","Country":"USA","Institute":"The University of Chicago","Thesis":" On the Operator Theory of Markoff Processes","Year":1955},
+
+
+"William Barnes Arveson ":{"Advisors":[": Henry Abel Dye, Jr."],"Advisees":["Alexander Alevras","Neils Andersen","Masayasu Aotani","Richard Baker","Cecelia Bleecker","Dennis Courtney","Kenneth Davidson","Hung Dinh","Thomas Fall","Neal Fowler","Devin Greene","Ilan Hirshberg","Jon Kraus","Marcelo Laca","Michael Lamoureux","David Larson","Cecelia Laurie","Richard Loebl","Daniel Markiewick","Donal O'Donovan","Chikaung Pai","David Pitts","Dylan SeLegue","Frederick Semwogerere","Jack Shaio","John Spielberg","Belisario Venture","Bruce Wagner"],"First_name":"William","Middle_Name":"Barnes","Last_Name":"Adverson","Country":"USA","Institute":"University of California","Thesis":"Prediction Theory and Group Representations","Year":1964},
+
+"Frank Cater":{"Advisors":["Donald H. Hyers","Henry Abel Dye Jr."] ,"Advisees":"","First_name":"Frank","Middle_Name":"Sydney","Last_Name":"Cater","Country":"USA","Institute":"University of Southern California","Thesis":"Contributions to the Theory of Hilbert Space Operators","Year":1960},
+
+
+"André De Korvin":{"Advisors":["Henry Abel Dye, Jr."],"Advisees":"","First_name":"André","Middle_Name":"De","Last_Name":"Korvin","Country":"USA","Institute":"University of California","Thesis":"Expectations in Von Neumann Algebras","Year":1967},
+
+
+"Steven Douglass":{"Advisors":["Henry Abel Dye, Jr."],"Advisees":"","First_name":"Steven","Middle_Name":"Allen","Last_Name":"Douglass","Country":"USA","Institute":"University of California","Thesis":"On a Concept of Summability in Amenable Semigroups","Year":1967},
+
+
+"C. Robert Miers":{"Advisors":["Henry Abel Dye, Jr."],"Advisees":"","First_name":"Charles","Middle_Name":"Robert","Last_Name":"Miers","Country":"USA","Institute":"University of California","Thesis":" Lie Isomorphisms of Operator Algebras","Year":1968},
+
+"Fredric Pollack":{"Advisors":["Henry Abel Dye, Jr."],"Advisees":"","First_name":"Fredric","Middle_Name":"Martin","Last_Name":"Pollack ","Country":"USA","Institute":"University of California","Thesis":"An Investigation of the Matrix Range of an Operator","Year":1971},
+
+"Bernard Russo":{"Advisors":["Henry Abel Dye, Jr."],"Advisees":["William Burns, Jr.","Lang Chen","Dana Clahane","Truong Dang","Tony Ho","Ing-Jer Lin","Wallace Luo","Matthew Roozee","Jennifer Strasser-McIntosh"],"First_name":"Steven","Middle_Name":"","Last_Name":"Douglass","Country":"USA","Institute":"University of California","Thesis":"Linear Mappings and Unitary Structure of Operator Algebras","Year":1965},
+
+"Irving ezra segal":{"Advisors":[" C. Einar (Carl) Hille"],"Advisees":["Brian Abrahamson","John Baez","Stephen Berman","Robert Blattner","Thomas Branson","A. Robert Brodsky","John Chadam","Jan Chaiken","Joseph Cook","Lester Dubins","Henry Dye, Jr.","Jacob Feldman","Roe Goodman","Ernest Griffin, Jr.","Leonard Gross","M. Matthew Hackman","Hans Jakobsen","Robert Kallman","Abel Klein","Mark Kon","Bertram Kostant","Ray Kunze","Richard Lavine","Edmund Lee","Michael Lennon","Arthur Lieberman","Ernest Michael","J. Edward Nelson","Derrick Niederman","Bent Ørsted","Stephen Paneitz","Jan Pedersen","Niels Poulsen","Steven Robbins","Tomas Schonbek","David Shale","Isadore Singer","W. Forrest Stinespring","Walter Strauss","Michael Weinless"],"First_name":"Irving","Middle_Name":"Ezra","Last_Name":"segal","Country":"USA","Institute":"Yale University","Thesis":"Ring Properties of Certain Classes of Functions","Year":1940},
+
+"John Aiken, IV":{"Advisors":[" Ernest Lyle Griffin, Jr."," Pasquale Porcelli"],"Advisees":"","First_name":"John","Middle_Name":"Gayle","Last_Name":"Aiken,IV","Country":"USA","Institute":" Louisiana State University","Thesis":" Spectral Perturbations in C* and W* Algebra Mathematics Subject Classification Operator theory","Year":1972},
+
+
+"Alexandru Atim":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Alexandru ","Middle_Name":"Gabriel","Last_Name":" Atim","Country":"USA","Institute":"University of North Texas","Thesis":"Uniqueness Results for the Infinite Unitary, Orthogonal and Associated Groups, Mathematics Subject Classification: 22—Topological groups, Lie groups ","Year":2008},
+
+"Michael Cohen":{"Advisors":[" Robert Richard Kallman, Su Gao"],"Advisees":"","First_name":"Michael","Middle_Name":"Patrick","Last_Name":"Cohen","Country":"USA","Institute":"University of North Texas","Thesis":" Descriptive Set Theory and Measure Theory in Locally Compact and Non-locally Compact Groups,Mathematics Subject Classification: 22—Topological groups, Lie groups ","Year":2013},
+
+"Matthew Farmer":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Matthew","Middle_Name":"Ray","Last_Name":"Farmer","Country":"USA","Institute":"University of North Texas","Thesis":" Strong Choquet Topologies on the Closed Linear Subspaces of Banach Spaces,Mathematics Subject Classification: 46—Functional analysis ","Year":2011},
+
+"Diana Hayes":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Diana","Middle_Name":"","Last_Name":"Hayes","Country":"USA","Institute":"University of North Texas","Thesis":" Minimality of the Special Linear Groups","Year":1997},
+
+"Michael Henle":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Michael","Middle_Name":"Gilman","Last_Name":"Henle","Country":"USA","Institute":"Yale University","Thesis":"Galois Theory of von Neumann Algebras,Mathematics Subject Classification: 47—Operator theory ","Year":1970},
+
+"We'am Jasim":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"We'am","Middle_Name":"Mohammad","Last_Name":"Jasim","Country":"USA","Institute":"University of North Texas","Thesis":"Algebraically Determined Semidirect Products,Mathematics Subject Classification: 22—Topological groups, Lie groups ","Year":2011},
+
+"Alexander McLinden":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Alexander","Middle_Name":"Patrick","Last_Name":"McLinden","Country":"USA","Institute":"University of North Texas","Thesis":"Algebraically Determined Rings of Functions,Mathematics Subject Classification: 57—Manifolds and cell complexes ","Year":2010},
+
+
+"Samuel McWhorter":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Samuel","Middle_Name":"Preston","Last_Name":"Mcwhorter","Country":"USA","Institute":"University of North Texas","Thesis":" Fundamental Issues in Support Vector Machines,Mathematics Subject Classification: 26—Real functions ","Year":2014},
+
+"Robert Opalecky":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Robert","Middle_Name":"Vincent","Last_Name":"Opalecky","Country":"USA","Institute":"University of North Texas","Thesis":"A Topological Uniqueness Result for Special Linear Groups","Year":1997},
+
+"Elaine Pettit":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Elaine","Middle_Name":"J.","Last_Name":"Pettit","Country":"USA","Institute":"University of North Texas","Thesis":"Synthesis of 2-D Images from the Wigner Distribution with Applications to Mammography and Edge Extraction,Mathematics Subject Classification: 68—Computer science ","Year":1995},
+
+"Michael Rees":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"Michael","Middle_Name":"","Last_Name":"Rees","Country":"USA","Institute":"University of North Texas","Thesis":"Topological Uniqueness Results for the Special Linear and Other Classical Lie Algebras","Year":2001},
+
+"William Wright":{"Advisors":[" Robert Richard Kallman"],"Advisees":"","First_name":"William","Middle_Name":"Glen","Last_Name":"Wright","Country":"USA","Institute":"University of North Texas","Thesis":" An Algebraic Characterization of Stability Groups","Year":1991},
+
+
+"Eric Carle":{"Advisors":["J. Edward (Joseph) Nelson"],"Advisees":["Jogia Bandyopadhyay","James Kerce"],"First_name":"Eric","Middle_Name":"A","Last_Name":"Carle","Country":"USA","Institute":"Princeton University","Thesis":"","Year":1984},
+
+"Thaddeus Dankel":{"Advisors":["J. Edward (Joseph) Nelson"],"Advisees":[""],"First_name":"Thaddeus","Middle_Name":"","Last_Name":"Dankel","Country":"USA","Institute":"Princeton University","Thesis":"Mechanics on Manifolds and the Incorporation of Spin into Nelson's Stochastic Mechanics","Year":1969},
+
+"Richard Dudley":{"Advisors":["J. Edward (Joseph) Nelson, Gilbert agnew hunt"],"Advisees":["José Abreu Leon",
+"Kenneth Alexander","Laura Clemens","Donald Cohn","Richard DeBlassie","Chandrakant Deo","Mark Durst","Joseph Fu","Evarist Giné-Masdéu","José Gonzalez-Barrios","Samuel Gutmann","Marjorie Hahn","Dominique Haughton","Li He,Robert Holt","Xia Hua","Yen-Chin Huang","Ruben Klein","Martynas Manstavicius","David Marcus","Zakhar Maymin","Lewis Pakula","Steven Pincus","Jinghua Qiaan","Adolfo Quiroz Salazar","Michael Schmidt","Rae Michael Shortt","Eric Slud","Daphne Smith","Evangelos Tabakis","Pirooz Vatan","Joseph Yukich","Michael Zuker"],"First_name":"Richard","Middle_Name":"Mansfield","Last_Name":"Dudley","Country":"USA","Institute":"Princeton University","Thesis":"Lorentz-Invariant Random Distributions,Mathematics Subject Classification: 60—Probability theory and stochastic processes ","Year":1962},
+
+"William Faris":{"Advisors":["J. Edward (Joseph) Nelson"],"Advisees":["John Keisling,Jhishen Tsay,Mei Yin"],"First_name":"William","Middle_Name":"Guignard","Last_Name":"Faris","Country":"USA","Institute":"Princeton University","Thesis":"Perturbation Formulas for Linear Propagators","Year":1965}}
